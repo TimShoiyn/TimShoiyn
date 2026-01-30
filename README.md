@@ -2,56 +2,87 @@
 
 ## 💫 About Me
 
-🎓 **Software Developer** | AI & Machine Learning Enthusiast | Problem Solver
+🎓 **Frontend Developer | PhD Candidate in Data Science & ML | Former Senior Lecturer**
 
 🌍 Based in **Almaty, Kazakhstan**
 
-💡 Passionate about creating innovative solutions at the intersection of technology and social impact. I specialize in developing intelligent systems that make a real difference in people's lives.
+💡 Passionate frontend developer with strong background in data science and machine learning. Currently pursuing PhD in Data Science & ML while building modern web applications.
 
-## 🚀 What I'm Working On
+📚 **Education:**
+- 🎓 PhD Candidate - Data Science & Machine Learning (Current)
+- 🎓 Master in Information Sciences
+- 🎓 B.Sc. Mechanical Engineering
 
-- 🧠 **Emotional AI Systems** - Developing algorithms for recognizing psycho-emotional states through voice-speech data
-- 🔐 **Fraud Detection** - Building machine learning models to detect and prevent fraudulent activities
-- ⚖️ **Legal Tech** - Creating AI-powered tools to make legal services more accessible
+## 💼 Professional Experience
 
-## 💼 Featured Projects
+### **Frontend Developer** | Parqour.kz
+📅 January 2025 - Present  
+🔹 Building modern web applications using React and latest frontend technologies
 
-### 🎯 [Emotional State Recognition System](https://github.com/TimShoiyn/kmu_suesite_project)
-An innovative algorithm designed to detect psycho-emotional states and identify suicidal tendencies through voice-speech analysis. Built as part of a grant-funded research project.
+### **React Developer** | JumpKZ.com
+📅 2025  
+🔹 Developed interactive web platform for [jumpkz.com](https://jumpkz.com)  
+🔹 Implemented responsive design and optimized user experience
 
-**Tech Stack:** Python, Machine Learning, Audio Processing
+### **React Developer** | Almaty City Development Center
+📅 2020 - 2021  
+🔹 Contributed to [Smart Almaty Open Data Platform](https://opendata.smartalmaty.kz/)  
+🔹 Developed data visualization and civic engagement tools
 
-### 🛡️ [Fraud Detection System](https://github.com/TimShoiyn/kmu-fraud-detection-project)
-Advanced fraud detection system using machine learning to identify and prevent fraudulent transactions in real-time.
+### **Senior Lecturer** | Narxoz University
+📅 2020 - January 2025  
+🔹 Taught computer science and programming courses  
+🔹 Mentored students in software development and data science
 
-**Tech Stack:** Python, ML Algorithms, Data Analysis
+## 🚀 Current Focus
 
-### ⚖️ [LegalLingua Trainer](https://github.com/TimShoiyn/LegalLingua-Trainer)
-AI-powered legal language training tool to help professionals understand and navigate complex legal terminology.
-
-**Tech Stack:** JavaScript, NLP, Web Technologies
+- 🧠 **PhD Research** - Advancing knowledge in Data Science & Machine Learning
+- 💻 **Frontend Development** - Building production-ready web applications at Parqour.kz
+- 🤖 **AI/ML Projects** - Developing intelligent systems for real-world applications
 
 ## 🛠️ Tech Stack
 
-**Languages:**
+**Frontend:**
 ```
-Python | JavaScript | HTML/CSS | SQL
+React | JavaScript | TypeScript | HTML5 | CSS3 | Next.js | Redux
 ```
 
-**Frameworks & Libraries:**
+**Data Science & ML:**
 ```
-TensorFlow | Scikit-learn | Pandas | NumPy | Node.js
+Python | TensorFlow | Scikit-learn | Pandas | NumPy | Jupyter
 ```
 
 **Tools & Platforms:**
 ```
-Git | Docker | Jupyter | VS Code | Linux
+Git | Docker | VS Code | Linux | Node.js
 ```
 
-**AI/ML:**
-```
-Machine Learning | Deep Learning | NLP | Audio Processing | Data Analysis
-```
+## 🎯 Featured Projects
+
+### 🌐 [Smart Almaty Open Data Platform](https://opendata.smartalmaty.kz/)
+Open data platform for Almaty city government providing civic engagement tools and data visualization.
+
+**Tech Stack:** React, Data Visualization, OpenData APIs
+
+### 🎪 [JumpKZ Platform](https://jumpkz.com/)
+Interactive entertainment and booking platform.
+
+**Tech Stack:** React, Modern Web Technologies
+
+### 🧠 [Emotional State Recognition System](https://github.com/TimShoiyn/kmu_suesite_project)
+Algorithm for detecting psycho-emotional states through voice-speech analysis. Grant-funded research project focused on suicide prevention.
+
+**Tech Stack:** Python, Machine Learning, Audio Processing
+
+### 🛡️ [Fraud Detection System](https://github.com/TimShoiyn/kmu-fraud-detection-project)
+Machine learning system for identifying and preventing fraudulent transactions.
+
+**Tech Stack:** Python, ML Algorithms, Data Analysis
+
+### ⚖️ [LegalLingua Trainer](https://github.com/TimShoiyn/LegalLingua-Trainer)
+AI-powered legal language training tool for professionals.
+
+**Tech Stack:** JavaScript, NLP, Web Technologies
 
 ## 📊 GitHub Stats
 
@@ -61,11 +92,13 @@ Machine Learning | Deep Learning | NLP | Audio Processing | Data Analysis
 
 🔗 **LinkedIn:** [linkedin.com/in/temirlan-shoiynbek](https://linkedin.com/in/temirlan-shoiynbek)
 
-📧 **Email:** Feel free to reach out for collaborations or just a chat about tech!
+📧 **Email:** Open to collaborations and exciting projects!
+
+💼 **Note:** Most of my work is in private company repositories. I'm gradually adding personal projects and open-source contributions.
 
 ## 🌟 What Drives Me
 
-> "Technology should serve humanity. I'm committed to building solutions that not only solve technical problems but also create positive social impact."
+> "Combining frontend development expertise with data science knowledge to build intelligent, user-centric applications that make a real difference."
 
 ---
 
