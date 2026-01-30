@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-🎓 **Frontend Developer | PhD Candidate in Data Science & ML | Former Senior Lecturer**
+🎓 **Frontend Developer | PhD student in Data Science & ML | Former Senior Lecturer**
 
 🌍 Based in **Almaty, Kazakhstan**
 
